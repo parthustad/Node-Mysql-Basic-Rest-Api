@@ -1,0 +1,34 @@
+{
+  "name": "node-mysql-rest-api",
+  "version": "1.0.0",
+  "description": "crud rest api with node js and mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthustad/Node-Mysql-Api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "crud",
+    "rest",
+    "api"
+  ],
+  "author": "parth shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parthustad/Node-Mysql-Api/issues"
+  },
+  "homepage": "https://github.com/parthustad/Node-Mysql-Api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.12"
+  }
+}
